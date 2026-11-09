@@ -49,9 +49,11 @@ Waktu saya buka lagi file VBA-nya, kurang lebih ada 11 fitur yang dulu saya masu
 
 ---
 
-### Isi Folder `src/`
+### File Excel & Isi Folder `src/`
 
-Karena file `.xls` gak bisa langsung dilihat kodingannya di GitHub, modul VBA-nya saya export ke bentuk teks di folder [`src/`](./src):
+Kalau mau coba buka langsung aplikasinya, file Excel-nya sudah saya taruh di sini: **[`Aplikasi SPT 1770.xls`](./Aplikasi%20SPT%201770.xls)** (password VBA-nya juga sudah dibuka).
+
+Karena file `.xls` gak bisa langsung dilihat kodingannya di browser GitHub, modul VBA-nya juga saya export ke bentuk teks di folder [`src/`](./src):
 - [`mdSPT.bas`](./src/mdSPT.bas) - Kodingan utama (kalkulator 2 arah, export CSV/PDF, goal seek, sampai fungsi *scraping* token).
 - [`frmToken.bas`](./src/frmToken.bas) - Kodingan buat tampilan loading bar pas narik token.
 - [`ThisWorkbook.bas`](./src/ThisWorkbook.bas) - Kodingan buat fullscreen otomatis dan reset login kalau file pindah folder.

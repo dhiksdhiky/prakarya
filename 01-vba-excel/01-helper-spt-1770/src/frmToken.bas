@@ -1,12 +1,4 @@
-Attribute VB_Name = "frmToken"
-Attribute VB_Base = "0{B59E6D79-59FF-4D12-93C9-42659C0B3631}{30762A69-E167-4013-AE9D-752E5EC56E61}"
-Attribute VB_GlobalNameSpace = False
-Attribute VB_Creatable = False
-Attribute VB_PredeclaredId = True
-Attribute VB_Exposed = False
-Attribute VB_TemplateDerived = False
-Attribute VB_Customizable = False
-
+﻿
 Option Explicit
 Dim wb1 As Workbook
 Dim wspark, wsspt, wsset As Worksheet

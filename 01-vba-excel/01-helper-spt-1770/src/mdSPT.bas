@@ -1,5 +1,4 @@
-Attribute VB_Name = "mdSPT"
-Option Explicit
+﻿Option Explicit
 Dim wb, wb1, wbpegawai, wbform As Workbook
 Dim ws, wshome, wsform, wsbil, wsspt, wsinv, wssik, wsregis, wsdb, wsset, wspark, wspegawai As Worksheet
 Dim i, shini, lastdata, lasttoken As Long
