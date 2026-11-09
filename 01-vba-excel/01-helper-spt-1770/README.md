@@ -49,9 +49,11 @@ Waktu saya buka lagi file VBA-nya, kurang lebih ada 11 fitur yang dulu saya masu
 
 ---
 
-### File Excel & Isi Folder `src/`
+### File Excel, Panduan, & Isi Folder `src/`
 
-Kalau mau coba buka langsung aplikasinya, file Excel-nya sudah saya taruh di sini: **[`Aplikasi SPT 1770.xls`](./Aplikasi%20SPT%201770.xls)** (password VBA-nya juga sudah dibuka).
+Kalau mau coba buka langsung aplikasinya atau lihat buku panduan yang dulu pernah saya bikin buat teman-teman kantor, filenya ada di sini:
+- **[`Aplikasi SPT 1770.xls`](./Aplikasi%20SPT%201770.xls)** (file Excel aplikasi, password VBA sudah dibuka).
+- **[`Panduan Aplikasi SPT 1770.pdf`](./Panduan%20Aplikasi%20SPT%201770.pdf)** (dokumen tutorial penggunaan aplikasi).
 
 Karena file `.xls` gak bisa langsung dilihat kodingannya di browser GitHub, modul VBA-nya juga saya export ke bentuk teks di folder [`src/`](./src):
 - [`mdSPT.bas`](./src/mdSPT.bas) - Kodingan utama (kalkulator 2 arah, export CSV/PDF, goal seek, sampai fungsi *scraping* token).
