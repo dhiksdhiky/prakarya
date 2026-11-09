@@ -1,0 +1,7 @@
+# Ignore temporary Excel lock files
+~$*.xls
+~$*.xlsm
+~$*.xlsx
+*.tmp
+.DS_Store
+Thumbs.db
